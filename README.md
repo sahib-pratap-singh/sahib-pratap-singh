@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sahib-pratap-singh&left_color=gray&right_color=blue)
+
 - 👋 Hi, I’m @sahib-pratap-singh
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning django,react
