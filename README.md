@@ -1,5 +1,11 @@
 ## Hey! I'm Sahib Pratap Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm a tech enthusiast, currently in my final year of Computer Science and Engineering. I am passionate about web development and have more than one year of experience. A keen learner, enthusiastic to explore new technologies. I have an excellent understanding of DSA and problem-solving skills.
+
+I have contributed a lot to the community of active programmers and having a dream to create a community of passionate coders with a vision to teach programming and technical knowledge to the whole world, especially poor and underdeveloped area, students.
+
+Apart from this, I love to participate in competitions, contests, and hackathons.
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sahib-pratap-singh&left_color=gray&right_color=blue)
 
 [![Sahibs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahib-pratap-singh&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sahib-pratap-singh/github-readme-stats)
