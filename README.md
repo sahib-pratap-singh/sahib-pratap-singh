@@ -1,4 +1,4 @@
-## Hey! I'm Sahib Pratap Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align = "center"> Hey! I'm Sahib Pratap Singh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> </h1>
 
 I'm a tech enthusiast, currently in my final year of Computer Science and Engineering. I am passionate about web development and have more than one year of experience. A keen learner, enthusiastic to explore new technologies. I have an excellent understanding of DSA and problem-solving skills.
 
