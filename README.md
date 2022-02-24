@@ -46,6 +46,7 @@ Apart from this, I love to participate in competitions, contests, and hackathons
 <code><a href="https://twitter.com/PratapSahib"><img width="43px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" title="Twitter"/></a></code>
 <code><a href="mailto:crackwithsp@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 
+[![Sahib prataps's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahib-pratap-singh&theme=radical&bg_color=orange&hide_border=true&area=true)](https://git.io/sahib-pratap-singh)
 <!---
 sahib-pratap-singh/sahib-pratap-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
