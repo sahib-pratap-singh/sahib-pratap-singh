@@ -48,6 +48,8 @@ Apart from this, I love to participate in competitions, contests, and hackathons
 
 [![Sahib prataps's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahib-pratap-singh&theme=radical&bg_color=orange&hide_border=true&area=true)](https://git.io/sahib-pratap-singh)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahib-pratap-singh)  
+
 #### ✨ [Skyline View](https://skyline.github.com/sahib-pratap-singh/2022)
 <!---
 sahib-pratap-singh/sahib-pratap-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
