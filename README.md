@@ -7,10 +7,13 @@ I have contributed a lot to the community of active programmers and having a dre
 Apart from this, I love to participate in competitions, contests, and hackathons.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sahib-pratap-singh&left_color=green&right_color=red)
+
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sahib-pratap-singh&left_color=gray&right_color=blue) -->
 
 [![Sahibs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahib-pratap-singh&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/sahib-pratap-singh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahib-pratap-singh&layout=compact&theme=calm)](https://github.com/sahib-pratap-singh/github-readme-stats)
+### My LeetCode Stats
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=sahibpratap)
 
 - 👋 Hi, I’m @sahib-pratap-singh
 - 👀 I’m interested in Web-development
